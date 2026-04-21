@@ -1,0 +1,20 @@
+P{color:blue ; font-size: large;}
+font-weight bold;
+
+li { text-align: center; }
+
+html { font-family:Emilys Candy ; background-color:pink;}
+
+span{background-color: cadetblue;}
+/* select all html tags that have a class highligh_01 */ 
+
+.hightlight_01 {background-color:greenyellow;} 
+
+.hightlight_02 {background-color: cadetblue;}
+#pink-small {width: 50px;}
+#pink-medium {width: 99px;}
+#pink-large {width: 150px;}
+
+.test-div {background-color: lightgoldenrodyellow;} 
+margin: 30px; 
+ paddin: 40px; 

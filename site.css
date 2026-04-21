@@ -1,0 +1,13 @@
+body { 
+    background: orange;
+    padding: 50px;
+}
+    h1,
+    h2,
+    h3 {
+        color: brown;
+        font-family:"Emily's Candy";
+    }
+   img{width: 250px;}  
+html {font-family:"Emilys Candy";background-color: coral;} 
+
