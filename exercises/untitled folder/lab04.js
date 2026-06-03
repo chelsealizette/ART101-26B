@@ -21,4 +21,4 @@ message += "<p>My fuel is  " + buttonCreature.favoriteFood + ".</p>";
 
 $("#output").html(message);
 });
- document.body.style.backgroundColor = "lightpurple";
+ 
